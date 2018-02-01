@@ -1,1 +1,0 @@
-# cordium-style-guide
